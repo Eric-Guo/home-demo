@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'devise'
 gem 'paperclip', '~> 5.1'
-gem 'react_on_rails', '~> 7.0', '>= 7.0.4'
+gem 'react_on_rails', '~> 8.0.6'
 gem 'active_model_serializers', '~> 0.10.5'
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
